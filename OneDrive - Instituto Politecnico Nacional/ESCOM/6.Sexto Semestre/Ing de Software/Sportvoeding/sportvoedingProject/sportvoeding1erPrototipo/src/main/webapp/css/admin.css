@@ -1,0 +1,50 @@
+.inisead{
+    background-color: #FFF0C9;
+    height: 800px;
+}
+
+.cajalogad{
+    margin-left: 600px;
+    padding-top: 200px;
+}
+
+.posi{
+    padding-top: 250px;
+}
+
+.bt2{
+    font-size: 2rem !important;
+    width: 100%;
+}
+
+.bt2:hover{
+    background-color: #7a3f04 !important;
+}
+
+.dropdown-menu {
+    width: 100%;
+    background-color: #FF3F0D;
+}
+
+.dropdown-item{
+    color:white;
+}
+
+.boton{
+    background-color: red !important;
+}
+.aviso{
+    color: red;
+}
+
+.cajalog2{
+    width: 500px;
+    height: 900px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+
+.ov{
+    width: 300px;
+    overflow: auto;
+}

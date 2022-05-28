@@ -1,0 +1,8 @@
+-- QUERYS PARA LA TABLA DE CLIENTES
+
+insert into cliente values(2020630367,"ALBERTO","PEÑA","APENA1600@IPN.COM.MX","Beto","M","ESCOM",350.5,"5511353956");
+insert into cliente values(2020630369,"MARTÍN","PEREZ","MPEREZ@IPN.COM.MX","Martin","M","ESCOM",659.3,"5529997326");
+insert into cliente values(2020630372,"MARTHA","CORDERO","MCORDERO@IPN.COM.MX","Martha","F","ESCOM",788.26,"5531651597");
+insert into cliente values(2019159762,"JUAN","LOPEZ","LOPEZJUAN@IPN.COM.MX","Juan","M","ESCOM",189.35,"5533055212");
+insert into cliente values(2018758114,"MARIANA","ROJAS","MAROJAS@IPN.COM.MX","Mariana","F","ESCOM",178.59,"5525178915");
+insert into cliente values(2020630368,"ALBERTO","GARCIA","ALGARCIAS@IPN.COM.MX","Alberto","M","ESCOM",215.6,"5519144045");

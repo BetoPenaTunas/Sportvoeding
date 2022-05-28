@@ -1,0 +1,128 @@
+.sep1{
+    width: 100%;
+    margin-top: 0;
+}
+
+.nomti{
+    background-color: #FFF0C9;
+    width: 100%;
+    height: 50px;
+    margin-bottom: 0;
+    -webkit-text-stroke: 2px black;
+    color: white;
+    font-weight: 700;
+}
+
+.dropdown-menu{
+    width: 200px;
+}
+
+.dineroback{
+    background-color: #FFF0C9;
+    height: 360px;
+    clear: both;
+}
+
+.dinerodis{
+    font-family: 'Nunito';
+    color: #FF3F0D;
+}
+
+.ldif{
+    font-size: 35px;
+    font-weight: 700 !important;
+    color: black;
+}
+
+.agdi {
+    font-weight: 700 !important;
+    line-height: 2 !important;
+}
+
+.recar{
+    width: 600px !important;
+}
+
+.tarj{
+    width: 400px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 5px solid #4e4e4e;
+    border-radius: 10px;
+}
+
+.imaven{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.hven{
+    margin-left: 20px;
+}
+
+.bm{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.ventli{
+    float: left;
+}
+
+.mardet{
+    margin: 30px;
+}
+
+.nutr{
+    background-color: #11c21a;
+    color: white;
+    font-weight: 700;
+    margin: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
+tr{
+    color: white;
+}
+
+.inca{
+    width: 50px;
+}
+
+.btninp{
+    width: 50px;
+    font-size: 50px;
+}
+
+.tabcol{
+    color: black;
+    font-size: 30px;
+}
+
+.elix{
+    color: black;
+    text-decoration: none;
+}
+
+.total3{
+    font-size: 30px !important;
+    font-weight: 700;
+}
+
+.volvcomp{
+    text-decoration: none !important;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.cajon{
+    float: left;
+}
+
+.errordin{
+    font-weight: 700;
+    color: red;
+}
