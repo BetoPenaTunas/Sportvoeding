@@ -1,0 +1,7 @@
+Modificar los archivos 
+
+- Tienda2.jsp
+- Detalles.jsp
+- Carrito.jsp 
+- Compras.jsp
+- Lista.jsp
